@@ -1,4 +1,4 @@
-Qui trovere la risoluzione delle macchine di TryHackMe.
+Qui trovere la risoluzione delle macchine di TryHackMe. (in costante aggiornamento)
 
 Machine Simple CTF (Easy)
 https://youtu.be/aqibENOVnUY
