@@ -1,5 +1,8 @@
 Qui trovere la risoluzione delle macchine di TryHackMe. (in costante aggiornamento)
 
+Machine Wget (Easy)
+https://youtu.be/yTspw0GtRvQ?si=v8aRhBmMKUxooqjY
+
 Machine Simple CTF (Easy)
 https://youtu.be/aqibENOVnUY
 
